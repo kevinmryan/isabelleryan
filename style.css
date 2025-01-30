@@ -5,7 +5,7 @@
         } 
   
         body { 
-            background: yellowgreen; 
+            background: darkorchid; 
         } 
   
         .container { 
@@ -27,14 +27,14 @@
             font-weight: 700; 
             letter-spacing: 0px; 
             margin-bottom: 20px; 
-            background: yellowgreen; 
+            background: darkorchid; 
             position: relative; 
             animation: text 3s 1; 
         } 
   
         .text2 { 
             font-size: 30px; 
-            color: darkgreen; 
+            color: black; 
             font-family: Georgia, serif; 
         } 
   
